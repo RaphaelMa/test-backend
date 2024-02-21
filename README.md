@@ -1,4 +1,4 @@
-## Desafio para o Candidato - Desenvolvedor Backend Sênior em NestJS
+## Desafio para Desenvolvedor Backend
 
 # Objetivo
 Desenvolver um sistema backend utilizando NestJS para gerenciar acessos aos módulos CompanyController e ProductsController. Cada usuário tem acesso a determinados módulos, representados pelos controllers. O acesso do usuário será validado por meio de um interceptor que verificará se o usuário tem permissão para acessar o módulo da requisição.
